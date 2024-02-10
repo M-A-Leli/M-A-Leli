@@ -10,8 +10,10 @@ Let's collaborate and bring ideas to life. Here's a glimpse of my expertise:
 - Node.js
 - Express.js
 - PHP
-- Lavarel
+- Laravel
 - Java
+- python
+- C/C++
 - SQL
 
 Together, let's turn visions into reality, one code at a time.
