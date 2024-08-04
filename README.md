@@ -133,7 +133,7 @@
 
 ## 📊 GitHub Wizardry
 
-<div style="width: 100%; display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center; gap: 1rem;">
+<div align="center" style="width: 100%; display: flex; flex-wrap: wrap; align-items: flex-start; justify-content: center; gap: 1rem;">
   <img src="https://github-readme-stats.vercel.app/api?username=M-A-Leli&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-Leli&layout=compact&theme=radical" alt="Most Used Languages" style="max-width: 100%;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-A-Leli&theme=radical" alt="GitHub Streak" style="max-width: 100%;" />
@@ -141,13 +141,13 @@
 
 ## 🏆 Trophies of Triumph
 
-<div style="width: 100%; display: flex; align-items: center; justify-content: center;">
+<div align="center" style="width: 100%; display: flex; align-items: center; justify-content: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=M-A-Leli&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" style="max-width: 100%; flex: 1 1 auto;" />
 </div>
 
 ## 🌐 Let's Get Social!
 
-<div style="width: 100%; display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+<div align="center" style="width: 100%; display: flex; align-items: center; justify-content: center; gap: 1rem; flex-wrap: wrap;">
   <a href="https://linkedin.com/in/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
